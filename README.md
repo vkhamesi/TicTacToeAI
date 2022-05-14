@@ -1,5 +1,5 @@
 # TicTacToeAI (2019)
-Object oriented programming in Python of the TicTacToe game and development of an <b>artificial neural network (Q-learning)</b> that learns to play on a game history.
+Object oriented programming in Python of the TicTacToe game and development of an <b>artificial neural network</b> that learns to play on a game history.
 
 This personal project consisted in creating a <b>very simple game of TicTacToe from scratch in Python</b>, in object-oriented programming. The final application allows to play 1 vs 1, but also to train an artificial neural network via TensorFlow to play against an AI. 
 
